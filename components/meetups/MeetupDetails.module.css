@@ -1,0 +1,15 @@
+.content img {
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+}
+
+.content {
+  text-align: center;
+  padding: 1rem;
+}
+
+.content p {
+  font-size: 1.25rem;
+  color: #2c292b;
+}
