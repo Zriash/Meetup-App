@@ -1,1 +1,0 @@
-{"ast":null,"code":"const MeetupDetail = () => {};","map":{"version":3,"sources":["C:/Users/avior/Desktop/06-onwards-to-a-bigger-project-starting-project/pages/[meetupId]/index.js"],"names":["MeetupDetail"],"mappings":"AAAA,MAAMA,YAAY,GAAG,MAAM,CAE1B,CAFD","sourcesContent":["const MeetupDetail = () => {\r\n    \r\n}"]},"metadata":{},"sourceType":"script"}
