@@ -24,7 +24,7 @@ your database url
 
 ## Screenshots
 
-![App Screenshot](./images/meetup1)
+![App Screenshot](./images/meetup1.jpg)
 
-![App Screenshot](./images/meetup2)
+![App Screenshot](./images/meetup2.jpg)
 
